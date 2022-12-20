@@ -50,7 +50,7 @@
 						
 						echo( "<smiley>" );
 							echo( "<name>Love</name>" );
-							echo( "<image>http://www.peeps-chat.com/wp-content/plugins/upl_wc/smileys/heart.jpg</image>" );
+							echo( "<image>http://www.YourDomain.com/wp-content/plugins/upl_wc/smileys/heart.jpg</image>" );
 							echo( "<codes>" );
 				                	echo( "<code><![CDATA[love]]></code>" );
 									echo( "<code><![CDATA[heart]]></code>" );
@@ -63,7 +63,7 @@
 						
 						echo( "<smiley>" );
 							echo( "<name>Cock</name>" );
-							echo( "<image>http://www.peeps-chat.com/wp-content/plugins/upl_wc/smileys/cock.jpg</image>" );
+							echo( "<image>http://www.YourDomain.com/wp-content/plugins/upl_wc/smileys/cock.jpg</image>" );
 							echo( "<codes>" );
 				                	echo( "<code><![CDATA[cock]]></code>" );
 									echo( "<code><![CDATA[penis]]></code>" );
@@ -76,7 +76,7 @@
 						
 						echo( "<smiley>" );
 							echo( "<name>HB</name>" );
-							echo( "<image>http://www.peeps-chat.com/wp-content/plugins/upl_wc/smileys/hb.jpg</image>" );
+							echo( "<image>http://www.YourDomain.com/wp-content/plugins/upl_wc/smileys/hb.jpg</image>" );
 							echo( "<codes>" );
 				                	echo( "<code><![CDATA[hb]]></code>" );
 									echo( "<code><![CDATA[HB]]></code>" );
@@ -89,7 +89,7 @@
 						
 						echo( "<smiley>" );
 							echo( "<name>Canada</name>" );
-							echo( "<image>http://www.peeps-chat.com/wp-content/plugins/upl_wc/smileys/canada.jpg</image>" );
+							echo( "<image>http://www.YourDomain.com/wp-content/plugins/upl_wc/smileys/canada.jpg</image>" );
 							echo( "<codes>" );
 				                	echo( "<code><![CDATA[Canada]]></code>" );
 									echo( "<code><![CDATA[canadian]]></code>" );
@@ -102,7 +102,7 @@
 						
 						echo( "<smiley>" );
 							echo( "<name>WB</name>" );
-							echo( "<image>http://www.peeps-chat.com/wp-content/plugins/upl_wc/smileys/wb.jpg</image>" );
+							echo( "<image>http://www.YourDomain.com/wp-content/plugins/upl_wc/smileys/wb.jpg</image>" );
 							echo( "<codes>" );
 				                	echo( "<code><![CDATA[wb]]></code>" );
 									echo( "<code><![CDATA[WB]]></code>" );
@@ -115,7 +115,7 @@
 						
 						echo( "<smiley>" );
 							echo( "<name>WTF</name>" );
-							echo( "<image>http://www.peeps-chat.com/wp-content/plugins/upl_wc/smileys/wtf.jpg</image>" );
+							echo( "<image>http://www.YourDomain.com/wp-content/plugins/upl_wc/smileys/wtf.jpg</image>" );
 							echo( "<codes>" );
 				                	echo( "<code><![CDATA[wtf]]></code>" );
 									echo( "<code><![CDATA[WTF]]></code>" );
@@ -128,7 +128,7 @@
 						
 						echo( "<smiley>" );
 							echo( "<name>Lightning</name>" );
-							echo( "<image>http://www.peeps-chat.com/wp-content/plugins/upl_wc/smileys/lightning.jpg</image>" );
+							echo( "<image>http://www.YourDomain.com/wp-content/plugins/upl_wc/smileys/lightning.jpg</image>" );
 							echo( "<codes>" );
 				                	echo( "<code><![CDATA[lightning]]></code>" );
 									echo( "<code><![CDATA[Lightning]]></code>" );
@@ -141,7 +141,7 @@
 					
 					echo( "<smiley>" );
 							echo( "<name>Boobs</name>" );
-							echo( "<image>http://www.peeps-chat.com/wp-content/plugins/upl_wc/smileys/boobs.jpg</image>" );
+							echo( "<image>http://www.YourDomain.com/wp-content/plugins/upl_wc/smileys/boobs.jpg</image>" );
 							echo( "<codes>" );
 				                	echo( "<code><![CDATA[boobs]]></code>" );
 									echo( "<code><![CDATA[tits]]></code>" );
@@ -154,7 +154,7 @@
 						
 						echo( "<smiley>" );
 							echo( "<name>Chav</name>" );
-							echo( "<image>http://www.peeps-chat.com/wp-content/plugins/upl_wc/smileys/chav.jpg</image>" );
+							echo( "<image>http://www.YourDomain.com/wp-content/plugins/upl_wc/smileys/chav.jpg</image>" );
 							echo( "<codes>" );
 				                	echo( "<code><![CDATA[chav]]></code>" );
 									echo( "<code><![CDATA[noob]]></code>" );
@@ -167,7 +167,7 @@
 						
 						echo( "<smiley>" );
 							echo( "<name>FuckYou</name>" );
-							echo( "<image>http://www.peeps-chat.com/wp-content/plugins/upl_wc/smileys/finger.jpg</image>" );
+							echo( "<image>http://www.YourDomain.com/wp-content/plugins/upl_wc/smileys/finger.jpg</image>" );
 							echo( "<codes>" );
 				                	echo( "<code><![CDATA[fucku]]></code>" );
 									echo( "<code><![CDATA[fu]]></code>" );
@@ -180,7 +180,7 @@
 						
 						echo( "<smiley>" );
 							echo( "<name>KissMyAss</name>" );
-							echo( "<image>http://www.peeps-chat.com/wp-content/plugins/upl_wc/smileys/kissass.jpg</image>" );
+							echo( "<image>http://www.YourDomain.com/wp-content/plugins/upl_wc/smileys/kissass.jpg</image>" );
 							echo( "<codes>" );
 				                	echo( "<code><![CDATA[kissmyass]]></code>" );
 									echo( "<code><![CDATA[kma]]></code>" );
@@ -193,7 +193,7 @@
 						
 						echo( "<smiley>" );
 							echo( "<name>Mooning</name>" );
-							echo( "<image>http://www.peeps-chat.com/wp-content/plugins/upl_wc/smileys/mooning.jpg</image>" );
+							echo( "<image>http://www.YourDomain.com/wp-content/plugins/upl_wc/smileys/mooning.jpg</image>" );
 							echo( "<codes>" );
 				                	echo( "<code><![CDATA[moon]]></code>" );
 									echo( "<code><![CDATA[moons]]></code>" );
@@ -206,7 +206,7 @@
 						
 						echo( "<smiley>" );
 							echo( "<name>URGay</name>" );
-							echo( "<image>http://www.peeps-chat.com/wp-content/plugins/upl_wc/smileys/urgay.jpg</image>" );
+							echo( "<image>http://www.YourDomain.com/wp-content/plugins/upl_wc/smileys/urgay.jpg</image>" );
 							echo( "<codes>" );
 				                	echo( "<code><![CDATA[gay]]></code>" );
 									echo( "<code><![CDATA[puff]]></code>" );
@@ -219,7 +219,7 @@
 						
 						echo( "<smiley>" );
 							echo( "<name>YouSuck</name>" );
-							echo( "<image>http://www.peeps-chat.com/wp-content/plugins/upl_wc/smileys/yousuck.jpg</image>" );
+							echo( "<image>http://www.YourDomain.com/wp-content/plugins/upl_wc/smileys/yousuck.jpg</image>" );
 							echo( "<codes>" );
 				                	echo( "<code><![CDATA[yousuck]]></code>" );
 									echo( "<code><![CDATA[suck]]></code>" );
@@ -232,7 +232,7 @@
 						
 						echo( "<smiley>" );
 							echo( "<name>Thong</name>" );
-							echo( "<image>http://www.peeps-chat.com/wp-content/plugins/upl_wc/smileys/thong.jpg</image>" );
+							echo( "<image>http://www.YourDomain.com/wp-content/plugins/upl_wc/smileys/thong.jpg</image>" );
 							echo( "<codes>" );
 				                	echo( "<code><![CDATA[thong]]></code>" );
 									echo( "<code><![CDATA[ass]]></code>" );
@@ -246,7 +246,7 @@
 						
 						echo( "<smiley>" );
 							echo( "<name>Hotdog</name>" );
-							echo( "<image>http://www.peeps-chat.com/wp-content/plugins/upl_wc/smileys/hotdog.jpg</image>" );
+							echo( "<image>http://www.YourDomain.com/wp-content/plugins/upl_wc/smileys/hotdog.jpg</image>" );
 							echo( "<codes>" );
 				                	echo( "<code><![CDATA[hotdog]]></code>" );
 									echo( "<code><![CDATA[poisoned]]></code>" );
@@ -259,7 +259,7 @@
 						
 						echo( "<smiley>" );
 							echo( "<name>Devil</name>" );
-							echo( "<image>http://www.peeps-chat.com/wp-content/plugins/upl_wc/smileys/sexy.jpg</image>" );
+							echo( "<image>http://www.YourDomain.com/wp-content/plugins/upl_wc/smileys/sexy.jpg</image>" );
 							echo( "<codes>" );
 				                	echo( "<code><![CDATA[devil]]></code>" );
 									echo( "<code><![CDATA[sexy]]></code>" );
@@ -272,7 +272,7 @@
 					
 						echo( "<smiley>" );
 							echo( "<name>kiss</name>" );
-							echo( "<image>http://www.peeps-chat.com/wp-content/plugins/upl_wc/smileys/lips.jpg</image>" );
+							echo( "<image>http://www.YourDomain.com/wp-content/plugins/upl_wc/smileys/lips.jpg</image>" );
 							echo( "<codes>" );
 				                	echo( "<code><![CDATA[kiss]]></code>" );
 									echo( "<code><![CDATA[:*]]></code>" );
@@ -286,7 +286,7 @@
 					
 					echo( "<smiley>" );
 							echo( "<name>UK</name>" );
-							echo( "<image>http://www.peeps-chat.com/wp-content/plugins/upl_wc/smileys/british.jpg</image>" );
+							echo( "<image>http://www.YourDomain.com/wp-content/plugins/upl_wc/smileys/british.jpg</image>" );
 							echo( "<codes>" );
 				                	echo( "<code><![CDATA[UK]]></code>" );
 									echo( "<code><![CDATA[uk]]></code>" );
@@ -300,7 +300,7 @@
 					
 					echo( "<smiley>" );
 							echo( "<name>alien</name>" );
-							echo( "<image>http://www.peeps-chat.com/wp-content/plugins/upl_wc/smileys/alien.jpg</image>" );
+							echo( "<image>http://www.YourDomain.com/wp-content/plugins/upl_wc/smileys/alien.jpg</image>" );
 							echo( "<codes>" );
 				                	echo( "<code><![CDATA[alien]]></code>" );
 									echo( "<code><![CDATA[ET]]></code>" );
@@ -314,7 +314,7 @@
 					
 					echo( "<smiley>" );
 							echo( "<name>burger</name>" );
-							echo( "<image>http://www.peeps-chat.com/wp-content/plugins/upl_wc/smileys/burger.jpg</image>" );
+							echo( "<image>http://www.YourDomain.com/wp-content/plugins/upl_wc/smileys/burger.jpg</image>" );
 							echo( "<codes>" );
 				                	echo( "<code><![CDATA[burger]]></code>" );
 									echo( "<code><![CDATA[burger]]></code>" );
@@ -328,7 +328,7 @@
 					
 					echo( "<smiley>" );
 							echo( "<name>Music</name>" );
-							echo( "<image>http://www.peeps-chat.com/wp-content/plugins/upl_wc/smileys/jukebox.jpg</image>" );
+							echo( "<image>http://www.YourDomain.com/wp-content/plugins/upl_wc/smileys/jukebox.jpg</image>" );
 							echo( "<codes>" );
 				                	echo( "<code><![CDATA[music]]></code>" );
 									echo( "<code><![CDATA[radio]]></code>" );
@@ -342,7 +342,7 @@
 					
 					echo( "<smiley>" );
 							echo( "<name>No Smoking</name>" );
-							echo( "<image>http://www.peeps-chat.com/wp-content/plugins/upl_wc/smileys/no-smoking.jpg</image>" );
+							echo( "<image>http://www.YourDomain.com/wp-content/plugins/upl_wc/smileys/no-smoking.jpg</image>" );
 							echo( "<codes>" );
 				                	echo( "<code><![CDATA[no-smoking]]></code>" );
 									echo( "<code><![CDATA[no-smoking]]></code>" );
@@ -356,7 +356,7 @@
 					
 					echo( "<smiley>" );
 							echo( "<name>Stop</name>" );
-							echo( "<image>http://www.peeps-chat.com/wp-content/plugins/upl_wc/smileys/stop.jpg</image>" );
+							echo( "<image>http://www.YourDomain.com/wp-content/plugins/upl_wc/smileys/stop.jpg</image>" );
 							echo( "<codes>" );
 				                	echo( "<code><![CDATA[stop]]></code>" );
 									echo( "<code><![CDATA[Stop]]></code>" );
@@ -370,7 +370,7 @@
 					
 					echo( "<smiley>" );
 							echo( "<name>USA</name>" );
-							echo( "<image>http://www.peeps-chat.com/wp-content/plugins/upl_wc/smileys/usa.jpg</image>" );
+							echo( "<image>http://www.YourDomain.com/wp-content/plugins/upl_wc/smileys/usa.jpg</image>" );
 							echo( "<codes>" );
 				                	echo( "<code><![CDATA[USA]]></code>" );
 									echo( "<code><![CDATA[usa]]></code>" );
@@ -383,7 +383,7 @@
 						
 						echo( "<smiley>" );
 							echo( "<name>Rose</name>" );
-							echo( "<image>http://www.peeps-chat.com/wp-content/plugins/upl_wc/smileys/rose.jpg</image>" );
+							echo( "<image>http://www.YourDomain.com/wp-content/plugins/upl_wc/smileys/rose.jpg</image>" );
 							echo( "<codes>" );
 				                	echo( "<code><![CDATA[rose]]></code>" );
 									echo( "<code><![CDATA[Rose]]></code>" );
@@ -396,7 +396,7 @@
 						
 						echo( "<smiley>" );
 							echo( "<name>Sunny</name>" );
-							echo( "<image>http://www.peeps-chat.com/wp-content/plugins/upl_wc/smileys/sunny.jpg</image>" );
+							echo( "<image>http://www.YourDomain.com/wp-content/plugins/upl_wc/smileys/sunny.jpg</image>" );
 							echo( "<codes>" );
 				                	echo( "<code><![CDATA[sunny]]></code>" );
 									echo( "<code><![CDATA[sun]]></code>" );
@@ -409,7 +409,7 @@
 						
 						echo( "<smiley>" );
 							echo( "<name>@</name>" );
-							echo( "<image>http://www.peeps-chat.com/wp-content/plugins/upl_wc/smileys/@.jpg</image>" );
+							echo( "<image>http://www.YourDomain.com/wp-content/plugins/upl_wc/smileys/@.jpg</image>" );
 							echo( "<codes>" );
 				                	echo( "<code><![CDATA[@]]></code>" );
 									echo( "<code><![CDATA[@]]></code>" );
@@ -424,7 +424,7 @@
 						
 						echo( "<smiley>" );
 							echo( "<name>Beer</name>" );
-							echo( "<image>http://www.peeps-chat.com/wp-content/plugins/upl_wc/smileys/beer.jpg</image>" );
+							echo( "<image>http://www.YourDomain.com/wp-content/plugins/upl_wc/smileys/beer.jpg</image>" );
 							echo( "<codes>" );
 				                	echo( "<code><![CDATA[beer]]></code>" );
 									echo( "<code><![CDATA[cans]]></code>" );
@@ -437,7 +437,7 @@
 					
 						echo( "<smiley>" );
 							echo( "<name>Biohazard</name>" );
-							echo( "<image>http://www.peeps-chat.com/wp-content/plugins/upl_wc/smileys/biohazard.jpg</image>" );
+							echo( "<image>http://www.YourDomain.com/wp-content/plugins/upl_wc/smileys/biohazard.jpg</image>" );
 							echo( "<codes>" );
 				                	echo( "<code><![CDATA[biohazard]]></code>" );
 									echo( "<code><![CDATA[bio]]></code>" );
@@ -450,7 +450,7 @@
 						
 						echo( "<smiley>" );
 							echo( "<name>Disabled</name>" );
-							echo( "<image>http://www.peeps-chat.com/wp-content/plugins/upl_wc/smileys/disabled.jpg</image>" );
+							echo( "<image>http://www.YourDomain.com/wp-content/plugins/upl_wc/smileys/disabled.jpg</image>" );
 							echo( "<codes>" );
 				                	echo( "<code><![CDATA[disabled]]></code>" );
 									echo( "<code><![CDATA[sick]]></code>" );
@@ -464,7 +464,7 @@
 						
 						echo( "<smiley>" );
 							echo( "<name>Radioactive</name>" );
-							echo( "<image>http://www.peeps-chat.com/wp-content/plugins/upl_wc/smileys/radioactive.jpg</image>" );
+							echo( "<image>http://www.YourDomain.com/wp-content/plugins/upl_wc/smileys/radioactive.jpg</image>" );
 							echo( "<codes>" );
 				                	echo( "<code><![CDATA[radioactive]]></code>" );
 									echo( "<code><![CDATA[smelly]]></code>" );
@@ -477,7 +477,7 @@
 						
 						echo( "<smiley>" );
 							echo( "<name>Rain</name>" );
-							echo( "<image>http://www.peeps-chat.com/wp-content/plugins/upl_wc/smileys/rain.jpg</image>" );
+							echo( "<image>http://www.YourDomain.com/wp-content/plugins/upl_wc/smileys/rain.jpg</image>" );
 							echo( "<codes>" );
 				                	echo( "<code><![CDATA[rain]]></code>" );
 									echo( "<code><![CDATA[raining]]></code>" );
@@ -490,7 +490,7 @@
 						
 						echo( "<smiley>" );
 							echo( "<name>Snow</name>" );
-							echo( "<image>http://www.peeps-chat.com/wp-content/plugins/upl_wc/smileys/snow.jpg</image>" );
+							echo( "<image>http://www.YourDomain.com/wp-content/plugins/upl_wc/smileys/snow.jpg</image>" );
 							echo( "<codes>" );
 				                	echo( "<code><![CDATA[snow]]></code>" );
 									echo( "<code><![CDATA[snowing]]></code>" );
@@ -505,7 +505,7 @@
 						
 						echo( "<smiley>" );
 							echo( "<name>BRB</name>" );
-							echo( "<image>http://www.peeps-chat.com/wp-content/plugins/upl_wc/smileys/brb.jpg</image>" );
+							echo( "<image>http://www.YourDomain.com/wp-content/plugins/upl_wc/smileys/brb.jpg</image>" );
 							echo( "<codes>" );
 				                	echo( "<code><![CDATA[brb]]></code>" );
 									echo( "<code><![CDATA[BRB]]></code>" );
@@ -519,7 +519,7 @@
 						
 						echo( "<smiley>" );
 							echo( "<name>Coffee</name>" );
-							echo( "<image>http://www.peeps-chat.com/wp-content/plugins/upl_wc/smileys/coffee.jpg</image>" );
+							echo( "<image>http://www.YourDomain.com/wp-content/plugins/upl_wc/smileys/coffee.jpg</image>" );
 							echo( "<codes>" );
 				                	echo( "<code><![CDATA[coffee]]></code>" );
 									echo( "<code><![CDATA[brew]]></code>" );
@@ -532,7 +532,7 @@
 						
 						echo( "<smiley>" );
 							echo( "<name>England</name>" );
-							echo( "<image>http://www.peeps-chat.com/wp-content/plugins/upl_wc/smileys/england.jpg</image>" );
+							echo( "<image>http://www.YourDomain.com/wp-content/plugins/upl_wc/smileys/england.jpg</image>" );
 							echo( "<codes>" );
 				                	echo( "<code><![CDATA[england]]></code>" );
 									echo( "<code><![CDATA[England]]></code>" );
@@ -545,7 +545,7 @@
 						
 						echo( "<smiley>" );
 							echo( "<name>Eye</name>" );
-							echo( "<image>http://www.peeps-chat.com/wp-content/plugins/upl_wc/smileys/eye.jpg</image>" );
+							echo( "<image>http://www.YourDomain.com/wp-content/plugins/upl_wc/smileys/eye.jpg</image>" );
 							echo( "<codes>" );
 				                	echo( "<code><![CDATA[i]]></code>" );
 									echo( "<code><![CDATA[eye]]></code>" );
@@ -558,7 +558,7 @@
 						
 						echo( "<smiley>" );
 							echo( "<name>Geek</name>" );
-							echo( "<image>http://www.peeps-chat.com/wp-content/plugins/upl_wc/smileys/geek.jpg</image>" );
+							echo( "<image>http://www.YourDomain.com/wp-content/plugins/upl_wc/smileys/geek.jpg</image>" );
 							echo( "<codes>" );
 				                	echo( "<code><![CDATA[geek]]></code>" );
 									echo( "<code><![CDATA[nerd]]></code>" );
@@ -571,7 +571,7 @@
 						
 						echo( "<smiley>" );
 							echo( "<name>Gun</name>" );
-							echo( "<image>http://www.peeps-chat.com/wp-content/plugins/upl_wc/smileys/gun.jpg</image>" );
+							echo( "<image>http://www.YourDomain.com/wp-content/plugins/upl_wc/smileys/gun.jpg</image>" );
 							echo( "<codes>" );
 				                	echo( "<code><![CDATA[gun]]></code>" );
 									echo( "<code><![CDATA[shoot]]></code>" );
@@ -586,7 +586,7 @@
 						
 						echo( "<smiley>" );
 							echo( "<name>Monster</name>" );
-							echo( "<image>http://www.peeps-chat.com/wp-content/plugins/upl_wc/smileys/monster.jpg</image>" );
+							echo( "<image>http://www.YourDomain.com/wp-content/plugins/upl_wc/smileys/monster.jpg</image>" );
 							echo( "<codes>" );
 				                	echo( "<code><![CDATA[monster]]></code>" );
 									echo( "<code><![CDATA[scary]]></code>" );
@@ -599,7 +599,7 @@
 						
 						echo( "<smiley>" );
 							echo( "<name>Phone</name>" );
-							echo( "<image>http://www.peeps-chat.com/wp-content/plugins/upl_wc/smileys/phone.jpg</image>" );
+							echo( "<image>http://www.YourDomain.com/wp-content/plugins/upl_wc/smileys/phone.jpg</image>" );
 							echo( "<codes>" );
 				                	echo( "<code><![CDATA[phone]]></code>" );
 									echo( "<code><![CDATA[fone]]></code>" );
@@ -612,7 +612,7 @@
 						
 						echo( "<smiley>" );
 							echo( "<name>Pizza</name>" );
-							echo( "<image>http://www.peeps-chat.com/wp-content/plugins/upl_wc/smileys/pizza.jpg</image>" );
+							echo( "<image>http://www.YourDomain.com/wp-content/plugins/upl_wc/smileys/pizza.jpg</image>" );
 							echo( "<codes>" );
 				                	echo( "<code><![CDATA[pizza]]></code>" );
 									echo( "<code><![CDATA[Pizza]]></code>" );
@@ -625,7 +625,7 @@
 						
 						echo( "<smiley>" );
 							echo( "<name>?</name>" );
-							echo( "<image>http://www.peeps-chat.com/wp-content/plugins/upl_wc/smileys/questionmark.jpg</image>" );
+							echo( "<image>http://www.YourDomain.com/wp-content/plugins/upl_wc/smileys/questionmark.jpg</image>" );
 							echo( "<codes>" );
 				                	echo( "<code><![CDATA[?]]></code>" );
 									echo( "<code><![CDATA[what]]></code>" );
@@ -638,7 +638,7 @@
 						
 						echo( "<smiley>" );
 							echo( "<name>Sleep</name>" );
-							echo( "<image>http://www.peeps-chat.com/wp-content/plugins/upl_wc/smileys/sleep.jpg</image>" );
+							echo( "<image>http://www.YourDomain.com/wp-content/plugins/upl_wc/smileys/sleep.jpg</image>" );
 							echo( "<codes>" );
 				                	echo( "<code><![CDATA[sleep]]></code>" );
 									echo( "<code><![CDATA[tired]]></code>" );
@@ -651,7 +651,7 @@
 						
 						echo( "<smiley>" );
 							echo( "<name>Bite</name>" );
-							echo( "<image>http://www.peeps-chat.com/wp-content/plugins/upl_wc/smileys/teeth.jpg</image>" );
+							echo( "<image>http://www.YourDomain.com/wp-content/plugins/upl_wc/smileys/teeth.jpg</image>" );
 							echo( "<codes>" );
 				                	echo( "<code><![CDATA[bite]]></code>" );
 									echo( "<code><![CDATA[bites]]></code>" );
@@ -664,7 +664,7 @@
 						
 						echo( "<smiley>" );
 							echo( "<name>WTF</name>" );
-							echo( "<image>http://www.peeps-chat.com/wp-content/plugins/upl_wc/smileys/wtf.jpg</image>" );
+							echo( "<image>http://www.YourDomain.com/wp-content/plugins/upl_wc/smileys/wtf.jpg</image>" );
 							echo( "<codes>" );
 				                	echo( "<code><![CDATA[wtf]]></code>" );
 									echo( "<code><![CDATA[WTF]]></code>" );
@@ -677,7 +677,7 @@
 						
 						echo( "<smiley>" );
 							echo( "<name>Lies</name>" );
-							echo( "<image>http://www.peeps-chat.com/wp-content/plugins/upl_wc/smileys/lies.jpg</image>" );
+							echo( "<image>http://www.YourDomain.com/wp-content/plugins/upl_wc/smileys/lies.jpg</image>" );
 							echo( "<codes>" );
 				                	echo( "<code><![CDATA[lies]]></code>" );
 									echo( "<code><![CDATA[liar]]></code>" );
@@ -895,4 +895,3 @@
 	
 	echo( "</icappserverxml>" );
 ?>
-
